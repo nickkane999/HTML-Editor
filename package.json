@@ -1,0 +1,20 @@
+{
+  "name": "mypackage",
+  "version": "1.0.0",
+  "description": "This is the package I am using for the html editor",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickkane999/HTML-Editor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nickkane999/HTML-Editor/issues"
+  },
+  "homepage": "https://github.com/nickkane999/HTML-Editor#readme"
+}
